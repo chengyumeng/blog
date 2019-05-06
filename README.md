@@ -1,7 +1,7 @@
 # blog
 程天小邮差 
 
-##### [推荐书单](!https://github.com/chengyumeng/blog/blob/master/BOOK.md)
+##### [推荐书单](https://github.com/chengyumeng/blog/blob/master/BOOK.md)
 
 ## 最近更新
 
